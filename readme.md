@@ -77,18 +77,6 @@ cd github_101
 Usually this is Sublime Text, Atom, or VS Code, but feel free to get wild and go with whatever you're most productive with. In class, you most likely set up shortcuts to these text editors. Select the one that's appropriate for what you'll be using throughout the course.
 
 ```bash
-subl .
-```
-
-or
-
-```bash
-atom .
-```
-
-or
-
-```bash
 code .
 ``` 
 
@@ -132,7 +120,7 @@ git commit -m "Add my answers to answers.txt"
 
 #### 10. Push it!
 
-What this step does is take our commits and send them to wherever we specify. In this case, we'll push our changes on our local computer back up to your fork of this repository on your Github account.
+What this step does is take our commits and send them to wherever we specify. In this case, we'll push our changes on our local computer back up to your fork of this repository on your Github Enterprise account.
 
 ```bash
 git push origin master
@@ -156,9 +144,9 @@ If so, your one last step is to make a `pull request`. The term is a little bit 
 
 By the end of this you should have:
 
-* A separate fork of this repository (meaning, a copy on your *own* Github account!)
+* A separate fork of this repository (meaning, a copy on your *own* Github Enterprise account!)
 * A file called `answers.txt` that has numbered answers to each of the questions listed below.
-* A pull request against this repository (on WDI-SEA)
+* A pull request against this repository (on SEIR-1213)
 
 ## Quiz Questions
 
