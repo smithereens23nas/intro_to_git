@@ -1,3 +1,13 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+1. Linus Torvalds
+2. Also developed Linux
+3. 2005
+4. git init
+5. making changes to online repository to keep a file from uploading to github, might use to keepy something private
+6. fork allows you to create a copy of a repository so that you can colloborate on code without changing the main file
+7. A clone is copying the folders and files from the github cloud to your local machine
+8. unlimited, but only 1 per directory
+9. no
+10. true
